@@ -1,0 +1,49 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Node template
+# Logs
+logs
+docker/app
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Runtime data
+# Dependency directories
+node_modules/
+coverage/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+dist
+# yarn v2
+
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.pnp.*
+.idea
+*.iml
+.DS_Store
+.factorypath
+.vscode
+nginx.conf
+.history
+.lh
+package-lock.json
+yarn.lock
+
+# local env files
+.env.local
+.env.*.local
+
+*.tar.gz
+.stylelintcache

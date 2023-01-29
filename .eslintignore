@@ -1,0 +1,12 @@
+**/dll
+**/node_modules
+**/public
+**/assets/**/*
+**/dist
+*.min.css
+*.min.js
+**/*.lock
+**/iconfont/**/*
+**/coverage
+**/lib
+**/fontawesome

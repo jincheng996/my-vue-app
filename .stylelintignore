@@ -1,0 +1,10 @@
+**/node_modules
+**/public
+**/assets/**/*
+**/dist
+*.min.css
+**/*.lock
+**/iconfont/**/*
+**/coverage
+**/lib
+**/fontawesome
